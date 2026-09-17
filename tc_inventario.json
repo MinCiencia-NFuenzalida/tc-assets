@@ -21,7 +21,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Museo Arqueológico San Miguel de Azapa",
-   "busqueda_coordenadas": "San Miguel de Azapa"
+   "busqueda_coordenadas": "San Miguel de Azapa",
+   "seremi": "SEREMI de Arica y Parinacota",
+   "experto": "Arqueólogo o antropólogo; en sitios con administración indígena, guía de la comunidad",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "colon_10_arica",
@@ -42,7 +45,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Museo de Sitio Colón 10",
-   "busqueda_coordenadas": "Arica"
+   "busqueda_coordenadas": "Arica",
+   "seremi": "SEREMI de Arica y Parinacota",
+   "experto": "Arqueólogo o antropólogo; en sitios con administración indígena, guía de la comunidad",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "morro_arica_chinchorro",
@@ -63,7 +69,10 @@
    "confianza": "C",
    "gobernanza_indigena": "consulta",
    "busqueda_imagen": "Morro de Arica",
-   "busqueda_coordenadas": "Morro de Arica"
+   "busqueda_coordenadas": "Morro de Arica",
+   "seremi": "SEREMI de Arica y Parinacota",
+   "experto": "Arqueólogo o antropólogo; en sitios con administración indígena, guía de la comunidad",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "camarones_14",
@@ -84,7 +93,10 @@
    "confianza": "PC",
    "gobernanza_indigena": "consulta",
    "busqueda_imagen": "Caleta Camarones",
-   "busqueda_coordenadas": "Caleta Camarones"
+   "busqueda_coordenadas": "Caleta Camarones",
+   "seremi": "SEREMI de Arica y Parinacota",
+   "experto": "Arqueólogo o antropólogo; en sitios con administración indígena, guía de la comunidad",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "geoglifos_azapa_lluta",
@@ -105,7 +117,10 @@
    "confianza": "PC",
    "gobernanza_indigena": "consulta",
    "busqueda_imagen": "Geoglifos de Lluta",
-   "busqueda_coordenadas": "Valle de Azapa"
+   "busqueda_coordenadas": "Valle de Azapa",
+   "seremi": "SEREMI de Arica y Parinacota",
+   "experto": "Arqueólogo o antropólogo; en sitios con administración indígena, guía de la comunidad",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "pn_lauca",
@@ -126,7 +141,10 @@
    "confianza": "PC",
    "gobernanza_indigena": "consulta",
    "busqueda_imagen": "Parque nacional Lauca",
-   "busqueda_coordenadas": "Lago Chungará"
+   "busqueda_coordenadas": "Lago Chungará",
+   "seremi": "SEREMI de Arica y Parinacota",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "rb_lauca",
@@ -147,7 +165,10 @@
    "confianza": "PC",
    "gobernanza_indigena": "consulta",
    "busqueda_imagen": "Parque nacional Lauca",
-   "busqueda_coordenadas": "Putre"
+   "busqueda_coordenadas": "Putre",
+   "seremi": "SEREMI de Arica y Parinacota",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "salar_surire",
@@ -168,7 +189,10 @@
    "confianza": "PC",
    "gobernanza_indigena": "consulta",
    "busqueda_imagen": "Salar de Surire",
-   "busqueda_coordenadas": "Salar de Surire"
+   "busqueda_coordenadas": "Salar de Surire",
+   "seremi": "SEREMI de Arica y Parinacota",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "cuevas_anzota",
@@ -189,7 +213,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Cuevas de Anzota",
-   "busqueda_coordenadas": "Cuevas de Anzota"
+   "busqueda_coordenadas": "Cuevas de Anzota",
+   "seremi": "SEREMI de Arica y Parinacota",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "humberstone_santa_laura",
@@ -210,7 +237,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Oficinas salitreras de Humberstone y Santa Laura",
-   "busqueda_coordenadas": "Humberstone"
+   "busqueda_coordenadas": "Humberstone",
+   "seremi": "SEREMI de Tarapacá",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "gigante_tarapaca",
@@ -231,7 +261,10 @@
    "confianza": "C",
    "gobernanza_indigena": "consulta",
    "busqueda_imagen": "Gigante de Tarapacá",
-   "busqueda_coordenadas": "Cerro Unita"
+   "busqueda_coordenadas": "Cerro Unita",
+   "seremi": "SEREMI de Tarapacá",
+   "experto": "Arqueólogo o antropólogo; en sitios con administración indígena, guía de la comunidad",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "geoglifos_pintados",
@@ -252,7 +285,10 @@
    "confianza": "C",
    "gobernanza_indigena": "consulta",
    "busqueda_imagen": "Geoglifos de Pintados",
-   "busqueda_coordenadas": "Pintados (Chile)"
+   "busqueda_coordenadas": "Pintados (Chile)",
+   "seremi": "SEREMI de Tarapacá",
+   "experto": "Arqueólogo o antropólogo; en sitios con administración indígena, guía de la comunidad",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "pica_starlight",
@@ -273,7 +309,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Pica (Chile)",
-   "busqueda_coordenadas": "Pica"
+   "busqueda_coordenadas": "Pica",
+   "seremi": "SEREMI de Tarapacá",
+   "experto": "Astrónomo o astrónoma; divulgador astronómico certificado",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "salar_huasco",
@@ -294,7 +333,10 @@
    "confianza": "PC",
    "gobernanza_indigena": "consulta",
    "busqueda_imagen": "Salar del Huasco",
-   "busqueda_coordenadas": "Salar del Huasco"
+   "busqueda_coordenadas": "Salar del Huasco",
+   "seremi": "SEREMI de Tarapacá",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "pn_isluga",
@@ -315,7 +357,10 @@
    "confianza": "PC",
    "gobernanza_indigena": "consulta",
    "busqueda_imagen": "Parque nacional Volcán Isluga",
-   "busqueda_coordenadas": "Volcán Isluga"
+   "busqueda_coordenadas": "Volcán Isluga",
+   "seremi": "SEREMI de Tarapacá",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "rn_pampa_tamarugal",
@@ -336,7 +381,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Reserva nacional Pampa del Tamarugal",
-   "busqueda_coordenadas": "Pozo Almonte"
+   "busqueda_coordenadas": "Pozo Almonte",
+   "seremi": "SEREMI de Tarapacá",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "plantas_solares_tarapaca",
@@ -357,7 +405,10 @@
    "confianza": "H",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Pampa del Tamarugal",
-   "busqueda_coordenadas": "Pozo Almonte"
+   "busqueda_coordenadas": "Pozo Almonte",
+   "seremi": "SEREMI de Tarapacá",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "No · no recibe público hoy"
   },
   {
    "id": "paranal",
@@ -378,7 +429,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Observatorio Paranal",
-   "busqueda_coordenadas": "Cerro Paranal"
+   "busqueda_coordenadas": "Cerro Paranal",
+   "seremi": "SEREMI de Antofagasta",
+   "experto": "Astrónomo o astrónoma; divulgador astronómico certificado",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "alma",
@@ -399,28 +453,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Atacama Large Millimeter Array",
-   "busqueda_coordenadas": "Llano de Chajnantor"
-  },
-  {
-   "id": "armazones_elt",
-   "nombre_oficial": "Cerro Armazones (Telescopio Extremadamente Grande, en construcción)",
-   "region": "Antofagasta",
-   "comuna": "Antofagasta; Taltal",
-   "area_tematica": "Cielos",
-   "anillo": "a estructurar",
-   "subtipo": "observatorio en construcción",
-   "base_cientifica_1_linea": "Mayor telescopio óptico en construcción; ESO",
-   "institucion_responsable": "ESO",
-   "estado_apertura": "cerrado",
-   "estacionalidad": null,
-   "prestador_inscrito": "no",
-   "proteccion_legal": null,
-   "por_que_importa": "Aquí se construye el telescopio óptico más grande jamás hecho. No se puede visitar mientras esté en obra.",
-   "url_referencia": null,
-   "confianza": "C",
-   "gobernanza_indigena": null,
-   "busqueda_imagen": "Extremely Large Telescope",
-   "busqueda_coordenadas": "Cerro Armazones"
+   "busqueda_coordenadas": "Llano de Chajnantor",
+   "seremi": "SEREMI de Antofagasta",
+   "experto": "Astrónomo o astrónoma; divulgador astronómico certificado",
+   "visitable": "No · no recibe público hoy"
   },
   {
    "id": "museo_meteorito",
@@ -441,7 +477,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Museo del Meteorito",
-   "busqueda_coordenadas": "San Pedro de Atacama"
+   "busqueda_coordenadas": "San Pedro de Atacama",
+   "seremi": "SEREMI de Antofagasta",
+   "experto": "Astrónomo o astrónoma; divulgador astronómico certificado",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "museo_le_paige",
@@ -462,7 +501,10 @@
    "confianza": "PC",
    "gobernanza_indigena": "consulta",
    "busqueda_imagen": "Museo Arqueológico Gustavo Le Paige",
-   "busqueda_coordenadas": "San Pedro de Atacama"
+   "busqueda_coordenadas": "San Pedro de Atacama",
+   "seremi": "SEREMI de Antofagasta",
+   "experto": "Arqueólogo o antropólogo; en sitios con administración indígena, guía de la comunidad",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "tatio",
@@ -483,7 +525,10 @@
    "confianza": "C",
    "gobernanza_indigena": "comunidades atacameñas de Caspana y Toconce",
    "busqueda_imagen": "Géiseres del Tatio",
-   "busqueda_coordenadas": "El Tatio"
+   "busqueda_coordenadas": "El Tatio",
+   "seremi": "SEREMI de Antofagasta",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "valle_luna_flamencos",
@@ -504,7 +549,10 @@
    "confianza": "PC",
    "gobernanza_indigena": "comunidades atacameñas (co-administración con CONAF)",
    "busqueda_imagen": "Valle de la Luna (Chile)",
-   "busqueda_coordenadas": "Valle de la Luna, San Pedro de Atacama"
+   "busqueda_coordenadas": "Valle de la Luna, San Pedro de Atacama",
+   "seremi": "SEREMI de Antofagasta",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "chaxa_soncor",
@@ -525,7 +573,10 @@
    "confianza": "PC",
    "gobernanza_indigena": "comunidades atacameñas (co-administración con CONAF)",
    "busqueda_imagen": "Laguna Chaxa",
-   "busqueda_coordenadas": "Laguna Chaxa"
+   "busqueda_coordenadas": "Laguna Chaxa",
+   "seremi": "SEREMI de Antofagasta",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "yungay",
@@ -546,7 +597,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Desierto de Atacama",
-   "busqueda_coordenadas": "Estación Yungay"
+   "busqueda_coordenadas": "Estación Yungay",
+   "seremi": "SEREMI de Antofagasta",
+   "experto": "Astrónomo o astrónoma; divulgador astronómico certificado",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "cerro_dominador",
@@ -567,7 +621,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Cerro Dominador",
-   "busqueda_coordenadas": "Cerro Dominador"
+   "busqueda_coordenadas": "Cerro Dominador",
+   "seremi": "SEREMI de Antofagasta",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "cerro_pabellon",
@@ -588,7 +645,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Central geotérmica Cerro Pabellón",
-   "busqueda_coordenadas": "Ollagüe"
+   "busqueda_coordenadas": "Ollagüe",
+   "seremi": "SEREMI de Antofagasta",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "No · no recibe público hoy"
   },
   {
    "id": "mano_desierto_starlight",
@@ -609,7 +669,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Mano del Desierto",
-   "busqueda_coordenadas": "Mano del Desierto"
+   "busqueda_coordenadas": "Mano del Desierto",
+   "seremi": "SEREMI de Antofagasta",
+   "experto": "Astrónomo o astrónoma; divulgador astronómico certificado",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "pampa_joya_starlight",
@@ -630,7 +693,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Pampa Joya",
-   "busqueda_coordenadas": "Antofagasta"
+   "busqueda_coordenadas": "Antofagasta",
+   "seremi": "SEREMI de Antofagasta",
+   "experto": "Astrónomo o astrónoma; divulgador astronómico certificado",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "alto_loa_starlight",
@@ -651,7 +717,10 @@
    "confianza": "C",
    "gobernanza_indigena": "consulta",
    "busqueda_imagen": "Alto Loa",
-   "busqueda_coordenadas": "Chiu Chiu"
+   "busqueda_coordenadas": "Chiu Chiu",
+   "seremi": "SEREMI de Antofagasta",
+   "experto": "Astrónomo o astrónoma; divulgador astronómico certificado",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "puerto_de_ideas_antofagasta",
@@ -672,7 +741,10 @@
    "confianza": "PV",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Puerto de Ideas",
-   "busqueda_coordenadas": "Antofagasta"
+   "busqueda_coordenadas": "Antofagasta",
+   "seremi": "SEREMI de Antofagasta",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "Solo en fecha del evento"
   },
   {
    "id": "dia_astroturismo_antofagasta",
@@ -693,7 +765,10 @@
    "confianza": "C] (fecha y existencia); [PV] (organizador)",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Antofagasta",
-   "busqueda_coordenadas": "Antofagasta"
+   "busqueda_coordenadas": "Antofagasta",
+   "seremi": "SEREMI de Antofagasta",
+   "experto": "Astrónomo o astrónoma; divulgador astronómico certificado",
+   "visitable": "Solo en fecha del evento"
   },
   {
    "id": "museo_paleontologico_caldera",
@@ -714,7 +789,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Museo Paleontológico de Caldera",
-   "busqueda_coordenadas": "Caldera (Chile)"
+   "busqueda_coordenadas": "Caldera (Chile)",
+   "seremi": "SEREMI de Atacama",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "cerro_ballena",
@@ -735,7 +813,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Cerro Ballena",
-   "busqueda_coordenadas": "Cerro Ballena"
+   "busqueda_coordenadas": "Cerro Ballena",
+   "seremi": "SEREMI de Atacama",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "No · no recibe público hoy"
   },
   {
    "id": "parque_los_dedos",
@@ -756,7 +837,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Parque Paleontológico Los Dedos",
-   "busqueda_coordenadas": "Caldera (Chile)"
+   "busqueda_coordenadas": "Caldera (Chile)",
+   "seremi": "SEREMI de Atacama",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "pn_desierto_florido",
@@ -777,7 +861,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Desierto florido",
-   "busqueda_coordenadas": "Parque nacional Desierto Florido"
+   "busqueda_coordenadas": "Parque nacional Desierto Florido",
+   "seremi": "SEREMI de Atacama",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "pn_llanos_challe",
@@ -798,7 +885,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Parque nacional Llanos de Challe",
-   "busqueda_coordenadas": "Llanos de Challe"
+   "busqueda_coordenadas": "Llanos de Challe",
+   "seremi": "SEREMI de Atacama",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "pn_pan_azucar",
@@ -819,7 +909,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Parque nacional Pan de Azúcar",
-   "busqueda_coordenadas": "Pan de Azúcar (Chile)"
+   "busqueda_coordenadas": "Pan de Azúcar (Chile)",
+   "seremi": "SEREMI de Atacama",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "rn_pinguino_humboldt_atacama",
@@ -840,7 +933,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Chañaral de Aceituno",
-   "busqueda_coordenadas": "Chañaral de Aceituno"
+   "busqueda_coordenadas": "Chañaral de Aceituno",
+   "seremi": "SEREMI de Atacama",
+   "experto": "Biólogo marino u oceanógrafo; guía de avistamiento con formación en fauna marina",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "maricunga_tres_cruces",
@@ -861,7 +957,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Salar de Maricunga",
-   "busqueda_coordenadas": "Salar de Maricunga"
+   "busqueda_coordenadas": "Salar de Maricunga",
+   "seremi": "SEREMI de Atacama",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "ojos_del_salado",
@@ -882,7 +981,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Nevado Ojos del Salado",
-   "busqueda_coordenadas": "Ojos del Salado"
+   "busqueda_coordenadas": "Ojos del Salado",
+   "seremi": "SEREMI de Atacama",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "las_campanas_gmt",
@@ -894,16 +996,19 @@
    "subtipo": "observatorio profesional",
    "base_cientifica_1_linea": "Institución Carnegie; GMT en construcción con comisionamiento proyectado hacia 2029",
    "institucion_responsable": "Carnegie Institution for Science; GMTO",
-   "estado_apertura": null,
+   "estado_apertura": "abierto con programa",
    "estacionalidad": null,
-   "prestador_inscrito": "no verificado",
+   "prestador_inscrito": "sí, visitas los sábados con reserva previa",
    "proteccion_legal": null,
    "por_que_importa": "Aquí la Institución Carnegie construye el Telescopio Gigante de Magallanes, uno de los más grandes del mundo, previsto para 2029. El sitio está en Atacama, no en Coquimbo, aunque su oficina esté en La Serena.",
    "url_referencia": "https://www.lco.cl/",
    "confianza": "C] (sitio); [PV] (régimen de visitas)",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Observatorio Las Campanas",
-   "busqueda_coordenadas": "Observatorio Las Campanas"
+   "busqueda_coordenadas": "Observatorio Las Campanas",
+   "seremi": "SEREMI de Atacama",
+   "experto": "Astrónomo o astrónoma; divulgador astronómico certificado",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "la_silla",
@@ -924,7 +1029,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Observatorio de La Silla",
-   "busqueda_coordenadas": "La Silla"
+   "busqueda_coordenadas": "La Silla",
+   "seremi": "SEREMI de Coquimbo",
+   "experto": "Astrónomo o astrónoma; divulgador astronómico certificado",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "cerro_tololo",
@@ -945,7 +1053,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Observatorio Interamericano del Cerro Tololo",
-   "busqueda_coordenadas": "Cerro Tololo"
+   "busqueda_coordenadas": "Cerro Tololo",
+   "seremi": "SEREMI de Coquimbo",
+   "experto": "Astrónomo o astrónoma; divulgador astronómico certificado",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "cerro_pachon",
@@ -966,7 +1077,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Observatorio Vera C. Rubin",
-   "busqueda_coordenadas": "Cerro Pachón"
+   "busqueda_coordenadas": "Cerro Pachón",
+   "seremi": "SEREMI de Coquimbo",
+   "experto": "Astrónomo o astrónoma; divulgador astronómico certificado",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "mamalluca",
@@ -987,7 +1101,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Observatorio Cerro Mamalluca",
-   "busqueda_coordenadas": "Cerro Mamalluca"
+   "busqueda_coordenadas": "Cerro Mamalluca",
+   "seremi": "SEREMI de Coquimbo",
+   "experto": "Astrónomo o astrónoma; divulgador astronómico certificado",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "collowara",
@@ -1008,7 +1125,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Observatorio Collowara",
-   "busqueda_coordenadas": "Andacollo"
+   "busqueda_coordenadas": "Andacollo",
+   "seremi": "SEREMI de Coquimbo",
+   "experto": "Astrónomo o astrónoma; divulgador astronómico certificado",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "cruz_del_sur",
@@ -1029,7 +1149,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Observatorio Cruz del Sur",
-   "busqueda_coordenadas": "Combarbalá"
+   "busqueda_coordenadas": "Combarbalá",
+   "seremi": "SEREMI de Coquimbo",
+   "experto": "Astrónomo o astrónoma; divulgador astronómico certificado",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "sendero_starlight_andacollo",
@@ -1050,7 +1173,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Andacollo",
-   "busqueda_coordenadas": "Andacollo"
+   "busqueda_coordenadas": "Andacollo",
+   "seremi": "SEREMI de Coquimbo",
+   "experto": "Astrónomo o astrónoma; divulgador astronómico certificado",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "fray_jorge_starlight",
@@ -1071,7 +1197,10 @@
    "confianza": "C] (vigencia de la recertificación después de 2025 [PV])",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Parque nacional Bosque Fray Jorge",
-   "busqueda_coordenadas": "Bosque Fray Jorge"
+   "busqueda_coordenadas": "Bosque Fray Jorge",
+   "seremi": "SEREMI de Coquimbo",
+   "experto": "Astrónomo o astrónoma; divulgador astronómico certificado",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "fray_jorge_bosque",
@@ -1092,7 +1221,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Parque nacional Bosque Fray Jorge",
-   "busqueda_coordenadas": "Bosque Fray Jorge"
+   "busqueda_coordenadas": "Bosque Fray Jorge",
+   "seremi": "SEREMI de Coquimbo",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "rn_pinguino_humboldt_coquimbo",
@@ -1113,7 +1245,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Reserva nacional Pingüino de Humboldt",
-   "busqueda_coordenadas": "Isla Damas"
+   "busqueda_coordenadas": "Isla Damas",
+   "seremi": "SEREMI de Coquimbo",
+   "experto": "Biólogo marino u oceanógrafo; guía de avistamiento con formación en fauna marina",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "mn_pichasca",
@@ -1134,7 +1269,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Monumento natural Pichasca",
-   "busqueda_coordenadas": "Pichasca"
+   "busqueda_coordenadas": "Pichasca",
+   "seremi": "SEREMI de Coquimbo",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "valle_encanto",
@@ -1155,7 +1293,10 @@
    "confianza": "PC",
    "gobernanza_indigena": "consulta",
    "busqueda_imagen": "Valle del Encanto",
-   "busqueda_coordenadas": "Valle del Encanto"
+   "busqueda_coordenadas": "Valle del Encanto",
+   "seremi": "SEREMI de Coquimbo",
+   "experto": "Arqueólogo o antropólogo; en sitios con administración indígena, guía de la comunidad",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "rn_las_chinchillas",
@@ -1176,7 +1317,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Reserva nacional Las Chinchillas",
-   "busqueda_coordenadas": "Illapel"
+   "busqueda_coordenadas": "Illapel",
+   "seremi": "SEREMI de Coquimbo",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "ceaza",
@@ -1197,7 +1341,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "La Serena (Chile)",
-   "busqueda_coordenadas": "La Serena"
+   "busqueda_coordenadas": "La Serena",
+   "seremi": "SEREMI de Coquimbo",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "Sí · solo grupos con solicitud previa"
   },
   {
    "id": "ecim_las_cruces",
@@ -1218,7 +1365,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Las Cruces (Chile)",
-   "busqueda_coordenadas": "Las Cruces, El Tabo"
+   "busqueda_coordenadas": "Las Cruces, El Tabo",
+   "seremi": "SEREMI de Valparaíso",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "pn_la_campana",
@@ -1239,7 +1389,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Parque nacional La Campana",
-   "busqueda_coordenadas": "Cerro La Campana"
+   "busqueda_coordenadas": "Cerro La Campana",
+   "seremi": "SEREMI de Valparaíso",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "jardin_botanico_nacional",
@@ -1260,7 +1413,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Jardín Botánico Nacional de Viña del Mar",
-   "busqueda_coordenadas": "Jardín Botánico Nacional (Viña del Mar)"
+   "busqueda_coordenadas": "Jardín Botánico Nacional (Viña del Mar)",
+   "seremi": "SEREMI de Valparaíso",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "cimarq_quintay",
@@ -1272,16 +1428,19 @@
    "subtipo": "centro de investigación",
    "base_cientifica_1_linea": "Acuicultura; repoblamiento de erizo rojo y congrio colorado desde 1993",
    "institucion_responsable": "Universidad Andrés Bello",
-   "estado_apertura": null,
+   "estado_apertura": "por solicitud",
    "estacionalidad": null,
-   "prestador_inscrito": "no verificado",
+   "prestador_inscrito": "grupos por solicitud",
    "proteccion_legal": null,
    "por_que_importa": "En la caleta de Quintay, científicos crían erizos y congrios para repoblar el mar junto a los pescadores artesanales. No tiene visitas regulares confirmadas.",
    "url_referencia": "https://cimarq.unab.cl/",
    "confianza": "C] (centro); [NF] (régimen de visitas)",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Quintay",
-   "busqueda_coordenadas": "Quintay"
+   "busqueda_coordenadas": "Quintay",
+   "seremi": "SEREMI de Valparaíso",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "Sí · solo grupos con solicitud previa"
   },
   {
    "id": "mhn_valparaiso",
@@ -1302,7 +1461,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Museo de Historia Natural de Valparaíso",
-   "busqueda_coordenadas": "Valparaíso"
+   "busqueda_coordenadas": "Valparaíso",
+   "seremi": "SEREMI de Valparaíso",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "puerto_de_ideas_valparaiso",
@@ -1323,7 +1485,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Puerto de Ideas",
-   "busqueda_coordenadas": "Valparaíso"
+   "busqueda_coordenadas": "Valparaíso",
+   "seremi": "SEREMI de Valparaíso",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "Solo en fecha del evento"
   },
   {
    "id": "rb_campana_penuelas",
@@ -1344,7 +1509,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Reserva nacional Lago Peñuelas",
-   "busqueda_coordenadas": "Lago Peñuelas"
+   "busqueda_coordenadas": "Lago Peñuelas",
+   "seremi": "SEREMI de Valparaíso",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "creas",
@@ -1365,7 +1533,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Valparaíso",
-   "busqueda_coordenadas": "Valparaíso"
+   "busqueda_coordenadas": "Valparaíso",
+   "seremi": "SEREMI de Valparaíso",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "No · no recibe público hoy"
   },
   {
    "id": "ceres",
@@ -1386,7 +1557,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Quillota",
-   "busqueda_coordenadas": "Quillota"
+   "busqueda_coordenadas": "Quillota",
+   "seremi": "SEREMI de Valparaíso",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "Sí · solo grupos con solicitud previa"
   },
   {
    "id": "pn_juan_fernandez",
@@ -1407,7 +1581,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Archipiélago Juan Fernández",
-   "busqueda_coordenadas": "Isla Robinson Crusoe"
+   "busqueda_coordenadas": "Isla Robinson Crusoe",
+   "seremi": "Por definir",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "rb_juan_fernandez",
@@ -1428,28 +1605,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Archipiélago Juan Fernández",
-   "busqueda_coordenadas": "Isla Robinson Crusoe"
-  },
-  {
-   "id": "nazca_desventuradas",
-   "nombre_oficial": "Parque Marino Nazca-Desventuradas y Motu Motiro Hiva",
-   "region": "Valparaíso (insular)",
-   "comuna": null,
-   "area_tematica": "Océano",
-   "anillo": "a estructurar",
-   "subtipo": "parque marino",
-   "base_cientifica_1_linea": "Conservación marina en alta mar",
-   "institucion_responsable": "Ministerio del Medio Ambiente",
-   "estado_apertura": "no aplica",
-   "estacionalidad": null,
-   "prestador_inscrito": "no",
-   "proteccion_legal": "Parque Marino",
-   "por_que_importa": "Grandes parques marinos en alta mar, donde no hay turismo pero sí ciencia que protege montes submarinos y especies que solo viven allí.",
-   "url_referencia": null,
-   "confianza": "PC",
-   "gobernanza_indigena": null,
-   "busqueda_imagen": "Islas Desventuradas",
-   "busqueda_coordenadas": "Isla San Ambrosio"
+   "busqueda_coordenadas": "Isla Robinson Crusoe",
+   "seremi": "Por definir",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "langosta_juan_fernandez",
@@ -1470,7 +1629,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Langosta de Juan Fernández",
-   "busqueda_coordenadas": "San Juan Bautista (Juan Fernández)"
+   "busqueda_coordenadas": "San Juan Bautista (Juan Fernández)",
+   "seremi": "Por definir",
+   "experto": "Biólogo marino u oceanógrafo; guía de avistamiento con formación en fauna marina",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "pn_rapa_nui",
@@ -1491,7 +1653,10 @@
    "confianza": "C",
    "gobernanza_indigena": "Ma'u Henua",
    "busqueda_imagen": "Parque nacional Rapa Nui",
-   "busqueda_coordenadas": "Hanga Roa"
+   "busqueda_coordenadas": "Hanga Roa",
+   "seremi": "Por definir",
+   "experto": "Arqueólogo o antropólogo; en sitios con administración indígena, guía de la comunidad",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "rano_raraku",
@@ -1512,7 +1677,10 @@
    "confianza": "C",
    "gobernanza_indigena": "Ma'u Henua",
    "busqueda_imagen": "Rano Raraku",
-   "busqueda_coordenadas": "Rano Raraku"
+   "busqueda_coordenadas": "Rano Raraku",
+   "seremi": "Por definir",
+   "experto": "Arqueólogo o antropólogo; en sitios con administración indígena, guía de la comunidad",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "orongo",
@@ -1533,7 +1701,10 @@
    "confianza": "C",
    "gobernanza_indigena": "Ma'u Henua",
    "busqueda_imagen": "Orongo",
-   "busqueda_coordenadas": "Orongo"
+   "busqueda_coordenadas": "Orongo",
+   "seremi": "Por definir",
+   "experto": "Arqueólogo o antropólogo; en sitios con administración indígena, guía de la comunidad",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "ahu_tongariki",
@@ -1554,7 +1725,10 @@
    "confianza": "C",
    "gobernanza_indigena": "Ma'u Henua",
    "busqueda_imagen": "Ahu Tongariki",
-   "busqueda_coordenadas": "Ahu Tongariki"
+   "busqueda_coordenadas": "Ahu Tongariki",
+   "seremi": "Por definir",
+   "experto": "Arqueólogo o antropólogo; en sitios con administración indígena, guía de la comunidad",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "museo_englert",
@@ -1575,7 +1749,10 @@
    "confianza": "PC",
    "gobernanza_indigena": "consulta",
    "busqueda_imagen": "Museo Antropológico Padre Sebastián Englert",
-   "busqueda_coordenadas": "Hanga Roa"
+   "busqueda_coordenadas": "Hanga Roa",
+   "seremi": "Por definir",
+   "experto": "Arqueólogo o antropólogo; en sitios con administración indígena, guía de la comunidad",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "cielo_rapa_nui",
@@ -1596,7 +1773,10 @@
    "confianza": "H",
    "gobernanza_indigena": "Ma'u Henua",
    "busqueda_imagen": "Isla de Pascua",
-   "busqueda_coordenadas": "Hanga Roa"
+   "busqueda_coordenadas": "Hanga Roa",
+   "seremi": "Por definir",
+   "experto": "Astrónomo o astrónoma; divulgador astronómico certificado",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "mim",
@@ -1617,7 +1797,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Museo Interactivo Mirador",
-   "busqueda_coordenadas": "La Granja (Chile)"
+   "busqueda_coordenadas": "La Granja (Chile)",
+   "seremi": "Nivel central (la RM no tiene SEREMI)",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "mia",
@@ -1638,7 +1821,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Museo Interactivo Mirador",
-   "busqueda_coordenadas": "La Granja (Chile)"
+   "busqueda_coordenadas": "La Granja (Chile)",
+   "seremi": "Nivel central (la RM no tiene SEREMI)",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "mnhn",
@@ -1659,7 +1845,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Museo Nacional de Historia Natural de Chile",
-   "busqueda_coordenadas": "Parque Quinta Normal"
+   "busqueda_coordenadas": "Parque Quinta Normal",
+   "seremi": "Nivel central (la RM no tiene SEREMI)",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "cerro_calan",
@@ -1680,7 +1869,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Observatorio Astronómico Nacional de Chile",
-   "busqueda_coordenadas": "Cerro Calán"
+   "busqueda_coordenadas": "Cerro Calán",
+   "seremi": "Nivel central (la RM no tiene SEREMI)",
+   "experto": "Astrónomo o astrónoma; divulgador astronómico certificado",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "planetario_usach",
@@ -1701,7 +1893,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Planetario Chile",
-   "busqueda_coordenadas": "Estación Central (Chile)"
+   "busqueda_coordenadas": "Estación Central (Chile)",
+   "seremi": "Nivel central (la RM no tiene SEREMI)",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "jardin_chagual",
@@ -1722,7 +1917,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Jardín Botánico Chagual",
-   "busqueda_coordenadas": "Parque Metropolitano de Santiago"
+   "busqueda_coordenadas": "Parque Metropolitano de Santiago",
+   "seremi": "Nivel central (la RM no tiene SEREMI)",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "mn_el_morado",
@@ -1743,7 +1941,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Monumento natural El Morado",
-   "busqueda_coordenadas": "El Morado"
+   "busqueda_coordenadas": "El Morado",
+   "seremi": "Nivel central (la RM no tiene SEREMI)",
+   "experto": "Glaciólogo o investigador antártico",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "rn_rio_clarillo",
@@ -1764,7 +1965,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Río Clarillo",
-   "busqueda_coordenadas": "Pirque"
+   "busqueda_coordenadas": "Pirque",
+   "seremi": "Nivel central (la RM no tiene SEREMI)",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "yerba_loca",
@@ -1785,7 +1989,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Santuario de la Naturaleza Yerba Loca",
-   "busqueda_coordenadas": "Yerba Loca"
+   "busqueda_coordenadas": "Yerba Loca",
+   "seremi": "Nivel central (la RM no tiene SEREMI)",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "laguna_caren",
@@ -1806,7 +2013,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Laguna Carén",
-   "busqueda_coordenadas": "Pudahuel"
+   "busqueda_coordenadas": "Pudahuel",
+   "seremi": "Nivel central (la RM no tiene SEREMI)",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "No · no recibe público hoy"
   },
   {
    "id": "cr2",
@@ -1818,7 +2028,7 @@
    "subtipo": "centro FONDAP",
    "base_cientifica_1_linea": "Ciencia del clima y resiliencia; convenio de observación climática costera con Punta de Lobos y la NOAA",
    "institucion_responsable": "Universidad de Chile (sede); centro FONDAP de ANID",
-   "estado_apertura": null,
+   "estado_apertura": "cerrado",
    "estacionalidad": null,
    "prestador_inscrito": "no",
    "proteccion_legal": null,
@@ -1827,7 +2037,10 @@
    "confianza": "C] (centro); [PV] (visitas); [PC] (comuna)",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Universidad de Chile",
-   "busqueda_coordenadas": "Santiago de Chile"
+   "busqueda_coordenadas": "Santiago de Chile",
+   "seremi": "Nivel central (la RM no tiene SEREMI)",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "No · no recibe público hoy"
   },
   {
    "id": "congreso_futuro",
@@ -1848,7 +2061,10 @@
    "confianza": "C] (evento y mes); [PC] (organizadores y comuna)",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Congreso Futuro",
-   "busqueda_coordenadas": "Santiago de Chile"
+   "busqueda_coordenadas": "Santiago de Chile",
+   "seremi": "Nivel central (la RM no tiene SEREMI)",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "Solo en fecha del evento"
   },
   {
    "id": "centro_sismologico_nacional",
@@ -1860,7 +2076,7 @@
    "subtipo": "centro de monitoreo sismológico",
    "base_cientifica_1_linea": "Red sismológica nacional; ciencia del terremoto de 1960 y del 27 de febrero de 2010",
    "institucion_responsable": "Universidad de Chile",
-   "estado_apertura": null,
+   "estado_apertura": "cerrado",
    "estacionalidad": null,
    "prestador_inscrito": "no",
    "proteccion_legal": null,
@@ -1869,7 +2085,10 @@
    "confianza": "C] (centro); [PV] (visitas); [PC] (comuna)",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Centro Sismológico Nacional",
-   "busqueda_coordenadas": "Santiago de Chile"
+   "busqueda_coordenadas": "Santiago de Chile",
+   "seremi": "Nivel central (la RM no tiene SEREMI)",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "No · no recibe público hoy"
   },
   {
    "id": "sewell",
@@ -1890,7 +2109,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Sewell (Chile)",
-   "busqueda_coordenadas": "Sewell"
+   "busqueda_coordenadas": "Sewell",
+   "seremi": "SEREMI del Maule (cubre O’Higgins)",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "mina_el_teniente",
@@ -1911,7 +2133,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Mina El Teniente",
-   "busqueda_coordenadas": "El Teniente"
+   "busqueda_coordenadas": "El Teniente",
+   "seremi": "SEREMI del Maule (cubre O’Higgins)",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "rn_rio_cipreses",
@@ -1932,7 +2157,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Reserva nacional Río de los Cipreses",
-   "busqueda_coordenadas": "Río de los Cipreses"
+   "busqueda_coordenadas": "Río de los Cipreses",
+   "seremi": "SEREMI del Maule (cubre O’Higgins)",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "rn_robleria_loncha",
@@ -1953,7 +2181,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Reserva nacional Roblería del Cobre de Loncha",
-   "busqueda_coordenadas": "Alhué"
+   "busqueda_coordenadas": "Alhué",
+   "seremi": "SEREMI del Maule (cubre O’Higgins)",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "punta_de_lobos",
@@ -1974,7 +2205,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Punta de Lobos",
-   "busqueda_coordenadas": "Punta de Lobos"
+   "busqueda_coordenadas": "Punta de Lobos",
+   "seremi": "SEREMI del Maule (cubre O’Higgins)",
+   "experto": "Biólogo marino u oceanógrafo; guía de avistamiento con formación en fauna marina",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "colchagua_vid",
@@ -1995,7 +2229,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Valle de Colchagua",
-   "busqueda_coordenadas": "Santa Cruz (Chile)"
+   "busqueda_coordenadas": "Santa Cruz (Chile)",
+   "seremi": "SEREMI del Maule (cubre O’Higgins)",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "termas_cauquenes",
@@ -2016,7 +2253,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Termas de Cauquenes",
-   "busqueda_coordenadas": "Termas de Cauquenes"
+   "busqueda_coordenadas": "Termas de Cauquenes",
+   "seremi": "SEREMI del Maule (cubre O’Higgins)",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "ceaf",
@@ -2037,7 +2277,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Rengo",
-   "busqueda_coordenadas": "Rengo"
+   "busqueda_coordenadas": "Rengo",
+   "seremi": "SEREMI del Maule (cubre O’Higgins)",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "No · no recibe público hoy"
   },
   {
    "id": "laguna_del_maule",
@@ -2058,7 +2301,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Laguna del Maule",
-   "busqueda_coordenadas": "Laguna del Maule"
+   "busqueda_coordenadas": "Laguna del Maule",
+   "seremi": "SEREMI del Maule",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "rn_altos_lircay",
@@ -2079,7 +2325,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Reserva nacional Altos de Lircay",
-   "busqueda_coordenadas": "Altos de Lircay"
+   "busqueda_coordenadas": "Altos de Lircay",
+   "seremi": "SEREMI del Maule",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "radal_siete_tazas",
@@ -2100,7 +2349,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Parque nacional Radal Siete Tazas",
-   "busqueda_coordenadas": "Radal Siete Tazas"
+   "busqueda_coordenadas": "Radal Siete Tazas",
+   "seremi": "SEREMI del Maule",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "descabezado_grande",
@@ -2121,7 +2373,10 @@
    "confianza": "H",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Descabezado Grande",
-   "busqueda_coordenadas": "Descabezado Grande"
+   "busqueda_coordenadas": "Descabezado Grande",
+   "seremi": "SEREMI del Maule",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "los_ruiles_queules",
@@ -2142,7 +2397,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Reserva nacional Los Ruiles",
-   "busqueda_coordenadas": "Chanco"
+   "busqueda_coordenadas": "Chanco",
+   "seremi": "SEREMI del Maule",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "valle_maule_vid",
@@ -2163,7 +2421,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Valle del Maule",
-   "busqueda_coordenadas": "Cauquenes"
+   "busqueda_coordenadas": "Cauquenes",
+   "seremi": "SEREMI del Maule",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "constitucion_tsunami",
@@ -2184,7 +2445,10 @@
    "confianza": "H",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Constitución (Chile)",
-   "busqueda_coordenadas": "Constitución (Chile)"
+   "busqueda_coordenadas": "Constitución (Chile)",
+   "seremi": "SEREMI del Maule",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Solo en fecha del evento"
   },
   {
    "id": "humedal_reloca",
@@ -2205,28 +2469,10 @@
    "confianza": "H",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Humedal de Reloca",
-   "busqueda_coordenadas": "Chanco"
-  },
-  {
-   "id": "pillanmapu",
-   "nombre_oficial": "Proyecto Geoparque Pillanmapu (aspirante a Geoparque Mundial UNESCO)",
-   "region": "Maule",
-   "comuna": null,
-   "area_tematica": "Tierra Profunda",
-   "anillo": "a estructurar",
-   "subtipo": "geoparque aspirante",
-   "base_cientifica_1_linea": "Misión evaluadora de UNESCO en terreno en agosto de 2026",
-   "institucion_responsable": null,
-   "estado_apertura": "no aplica",
-   "estacionalidad": null,
-   "prestador_inscrito": null,
-   "proteccion_legal": null,
-   "por_que_importa": "El Maule postula un geoparque mundial de UNESCO en torno a sus volcanes; la evaluación en terreno fue en agosto de 2026.",
-   "url_referencia": null,
-   "confianza": "C] (misión); [PC] (región y comunas)",
-   "gobernanza_indigena": null,
-   "busqueda_imagen": "Geoparque Pillanmapu",
-   "busqueda_coordenadas": "San Clemente (Chile)"
+   "busqueda_coordenadas": "Chanco",
+   "seremi": "SEREMI del Maule",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "ceap",
@@ -2247,7 +2493,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Talca",
-   "busqueda_coordenadas": "Talca"
+   "busqueda_coordenadas": "Talca",
+   "seremi": "SEREMI del Maule",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "No · no recibe público hoy"
   },
   {
    "id": "nevados_de_chillan",
@@ -2268,7 +2517,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Nevados de Chillán",
-   "busqueda_coordenadas": "Nevados de Chillán"
+   "busqueda_coordenadas": "Nevados de Chillán",
+   "seremi": "SEREMI del Biobío (cubre Ñuble)",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "rn_nuble",
@@ -2289,7 +2541,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Reserva nacional Ñuble",
-   "busqueda_coordenadas": "San Fabián"
+   "busqueda_coordenadas": "San Fabián",
+   "seremi": "SEREMI del Biobío (cubre Ñuble)",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "valle_itata_vid",
@@ -2310,7 +2565,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Valle del Itata",
-   "busqueda_coordenadas": "Quillón"
+   "busqueda_coordenadas": "Quillón",
+   "seremi": "SEREMI del Biobío (cubre Ñuble)",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "cobquecura_loberia",
@@ -2331,7 +2589,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Cobquecura",
-   "busqueda_coordenadas": "Cobquecura"
+   "busqueda_coordenadas": "Cobquecura",
+   "seremi": "SEREMI del Biobío (cubre Ñuble)",
+   "experto": "Biólogo marino u oceanógrafo; guía de avistamiento con formación en fauna marina",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "rb_corredor_chillan_laja",
@@ -2352,7 +2613,10 @@
    "confianza": "H",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Reserva de la biosfera Corredor Biológico Nevados de Chillán-Laguna del Laja",
-   "busqueda_coordenadas": "Nevados de Chillán"
+   "busqueda_coordenadas": "Nevados de Chillán",
+   "seremi": "Por definir",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "chiflon_del_diablo",
@@ -2373,7 +2637,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Mina Chiflón del Diablo",
-   "busqueda_coordenadas": "Lota"
+   "busqueda_coordenadas": "Lota",
+   "seremi": "SEREMI del Biobío",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "circuito_lota",
@@ -2394,7 +2661,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Parque de Lota",
-   "busqueda_coordenadas": "Lota"
+   "busqueda_coordenadas": "Lota",
+   "seremi": "SEREMI del Biobío",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "cicat",
@@ -2415,7 +2685,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Centro Interactivo de Ciencias, Artes y Tecnologías",
-   "busqueda_coordenadas": "Coronel (Chile)"
+   "busqueda_coordenadas": "Coronel (Chile)",
+   "seremi": "SEREMI del Biobío",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "pn_laguna_laja",
@@ -2436,7 +2709,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Parque nacional Laguna del Laja",
-   "busqueda_coordenadas": "Volcán Antuco"
+   "busqueda_coordenadas": "Volcán Antuco",
+   "seremi": "SEREMI del Biobío",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "salto_del_laja",
@@ -2457,7 +2733,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Salto del Laja",
-   "busqueda_coordenadas": "Salto del Laja"
+   "busqueda_coordenadas": "Salto del Laja",
+   "seremi": "SEREMI del Biobío",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "nahuelbuta",
@@ -2478,7 +2757,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Parque nacional Nahuelbuta",
-   "busqueda_coordenadas": "Cordillera de Nahuelbuta"
+   "busqueda_coordenadas": "Cordillera de Nahuelbuta",
+   "seremi": "SEREMI del Biobío",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "udec_imo_copas",
@@ -2499,7 +2781,10 @@
    "confianza": "C] (capacidad); [H] (interfaz)",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Universidad de Concepción",
-   "busqueda_coordenadas": "Concepción (Chile)"
+   "busqueda_coordenadas": "Concepción (Chile)",
+   "seremi": "SEREMI del Biobío",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "No · no recibe público hoy"
   },
   {
    "id": "isla_santa_maria",
@@ -2520,7 +2805,10 @@
    "confianza": "H",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Isla Santa María (Chile)",
-   "busqueda_coordenadas": "Isla Santa María (Chile)"
+   "busqueda_coordenadas": "Isla Santa María (Chile)",
+   "seremi": "SEREMI del Biobío",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "cipa",
@@ -2541,7 +2829,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Concepción (Chile)",
-   "busqueda_coordenadas": "Concepción (Chile)"
+   "busqueda_coordenadas": "Concepción (Chile)",
+   "seremi": "SEREMI del Biobío",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "No · no recibe público hoy"
   },
   {
    "id": "cigiden_biobio",
@@ -2553,7 +2844,7 @@
    "subtipo": "centro FONDAP (nodo regional)",
    "base_cientifica_1_linea": "Riesgo de desastres: sismos, tsunamis y alzamiento cosísmico de 2010; nodos en la Universidad de Concepción y la UCSC",
    "institucion_responsable": "Universidad de Concepción; Universidad Católica de la Santísima Concepción; centro FONDAP de ANID",
-   "estado_apertura": null,
+   "estado_apertura": "cerrado",
    "estacionalidad": null,
    "prestador_inscrito": "no",
    "proteccion_legal": null,
@@ -2562,7 +2853,10 @@
    "confianza": "C] (nodos); [PV] (visitas); [PC] (comuna)",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Universidad de Concepción",
-   "busqueda_coordenadas": "Concepción (Chile)"
+   "busqueda_coordenadas": "Concepción (Chile)",
+   "seremi": "SEREMI del Biobío",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "No · no recibe público hoy"
   },
   {
    "id": "puerto_de_ideas_biobio",
@@ -2583,7 +2877,10 @@
    "confianza": "C] (edición y mes); [PC] (comuna)",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Puerto de Ideas",
-   "busqueda_coordenadas": "Concepción (Chile)"
+   "busqueda_coordenadas": "Concepción (Chile)",
+   "seremi": "SEREMI del Biobío",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "Solo en fecha del evento"
   },
   {
    "id": "kutralkura",
@@ -2604,7 +2901,10 @@
    "confianza": "C",
    "gobernanza_indigena": "guías mapuche-pewenche (co-gestión de recorridos)",
    "busqueda_imagen": "Geoparque Kütralkura",
-   "busqueda_coordenadas": "Melipeuco"
+   "busqueda_coordenadas": "Melipeuco",
+   "seremi": "SEREMI de La Araucanía",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "volcan_villarrica",
@@ -2625,7 +2925,10 @@
    "confianza": "C",
    "gobernanza_indigena": "consulta",
    "busqueda_imagen": "Volcán Villarrica",
-   "busqueda_coordenadas": "Volcán Villarrica"
+   "busqueda_coordenadas": "Volcán Villarrica",
+   "seremi": "SEREMI de La Araucanía",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "pn_conguillio",
@@ -2646,7 +2949,10 @@
    "confianza": "PC",
    "gobernanza_indigena": "consulta",
    "busqueda_imagen": "Parque nacional Conguillío",
-   "busqueda_coordenadas": "Volcán Llaima"
+   "busqueda_coordenadas": "Volcán Llaima",
+   "seremi": "SEREMI de La Araucanía",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "pn_villarrica",
@@ -2667,7 +2973,10 @@
    "confianza": "PC",
    "gobernanza_indigena": "consulta",
    "busqueda_imagen": "Parque nacional Villarrica",
-   "busqueda_coordenadas": "Pucón"
+   "busqueda_coordenadas": "Pucón",
+   "seremi": "SEREMI de La Araucanía",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "pn_huerquehue",
@@ -2688,7 +2997,10 @@
    "confianza": "PC",
    "gobernanza_indigena": "consulta",
    "busqueda_imagen": "Parque nacional Huerquehue",
-   "busqueda_coordenadas": "Huerquehue"
+   "busqueda_coordenadas": "Huerquehue",
+   "seremi": "SEREMI de La Araucanía",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "rb_araucarias",
@@ -2709,7 +3021,10 @@
    "confianza": "H",
    "gobernanza_indigena": "consulta",
    "busqueda_imagen": "Reserva de la biosfera Araucarias",
-   "busqueda_coordenadas": "Lonquimay"
+   "busqueda_coordenadas": "Lonquimay",
+   "seremi": "SEREMI de La Araucanía",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "turismo_mapuche_araucania",
@@ -2730,7 +3045,10 @@
    "confianza": "C",
    "gobernanza_indigena": "comunidades mapuche-pewenche",
    "busqueda_imagen": "Curarrehue",
-   "busqueda_coordenadas": "Curarrehue"
+   "busqueda_coordenadas": "Curarrehue",
+   "seremi": "SEREMI de La Araucanía",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "cgna",
@@ -2751,7 +3069,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Temuco",
-   "busqueda_coordenadas": "Temuco"
+   "busqueda_coordenadas": "Temuco",
+   "seremi": "SEREMI de La Araucanía",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "Sí · solo grupos con solicitud previa"
   },
   {
    "id": "ovdas_temuco",
@@ -2763,7 +3084,7 @@
    "subtipo": "observatorio de vigilancia volcánica (servicio público)",
    "base_cientifica_1_linea": "Vigilancia en tiempo real de los volcanes activos de Chile; sede de la Red Nacional de Vigilancia Volcánica",
    "institucion_responsable": "SERNAGEOMIN",
-   "estado_apertura": null,
+   "estado_apertura": "cerrado",
    "estacionalidad": null,
    "prestador_inscrito": "no",
    "proteccion_legal": null,
@@ -2772,7 +3093,10 @@
    "confianza": "C] (sede); [PV] (visitas)",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Observatorio Volcanológico de los Andes del Sur",
-   "busqueda_coordenadas": "Temuco"
+   "busqueda_coordenadas": "Temuco",
+   "seremi": "SEREMI de La Araucanía",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "No · no recibe público hoy"
   },
   {
    "id": "santuario_anwandter",
@@ -2793,7 +3117,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Santuario de la Naturaleza Carlos Anwandter",
-   "busqueda_coordenadas": "Río Cruces (Los Ríos)"
+   "busqueda_coordenadas": "Río Cruces (Los Ríos)",
+   "seremi": "SEREMI de Los Ríos",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "terremoto_1960_valdivia",
@@ -2814,7 +3141,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Terremoto de Valdivia de 1960",
-   "busqueda_coordenadas": "Niebla (Chile)"
+   "busqueda_coordenadas": "Niebla (Chile)",
+   "seremi": "SEREMI de Los Ríos",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Solo en fecha del evento"
   },
   {
    "id": "alerce_costero",
@@ -2835,7 +3165,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Alerce Milenario",
-   "busqueda_coordenadas": "Parque nacional Alerce Costero"
+   "busqueda_coordenadas": "Parque nacional Alerce Costero",
+   "seremi": "SEREMI de Los Ríos",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "reserva_costera_valdiviana",
@@ -2856,7 +3189,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Reserva Costera Valdiviana",
-   "busqueda_coordenadas": "Corral (Chile)"
+   "busqueda_coordenadas": "Corral (Chile)",
+   "seremi": "SEREMI de Los Ríos",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "parque_oncol",
@@ -2877,7 +3213,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Parque Oncol",
-   "busqueda_coordenadas": "Parque Oncol"
+   "busqueda_coordenadas": "Parque Oncol",
+   "seremi": "SEREMI de Los Ríos",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "cecs_valdivia",
@@ -2898,7 +3237,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Centro de Estudios Científicos",
-   "busqueda_coordenadas": "Valdivia"
+   "busqueda_coordenadas": "Valdivia",
+   "seremi": "SEREMI de Los Ríos",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "No · no recibe público hoy"
   },
   {
    "id": "jardin_botanico_uach",
@@ -2919,7 +3261,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Jardín Botánico de la Universidad Austral de Chile",
-   "busqueda_coordenadas": "Isla Teja"
+   "busqueda_coordenadas": "Isla Teja",
+   "seremi": "SEREMI de Los Ríos",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "huilo_huilo",
@@ -2940,7 +3285,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Reserva Biológica Huilo Huilo",
-   "busqueda_coordenadas": "Neltume"
+   "busqueda_coordenadas": "Neltume",
+   "seremi": "SEREMI de Los Ríos",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "monte_verde",
@@ -2961,7 +3309,10 @@
    "confianza": "C] (sitio y pabellón); [PV] (operación turística formal)",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Monte Verde (sitio arqueológico)",
-   "busqueda_coordenadas": "Monte Verde (Chile)"
+   "busqueda_coordenadas": "Monte Verde (Chile)",
+   "seremi": "SEREMI de Los Lagos",
+   "experto": "Arqueólogo o antropólogo; en sitios con administración indígena, guía de la comunidad",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "golfo_corcovado_ballena_azul",
@@ -2982,7 +3333,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Golfo Corcovado",
-   "busqueda_coordenadas": "Golfo Corcovado"
+   "busqueda_coordenadas": "Golfo Corcovado",
+   "seremi": "SEREMI de Los Lagos",
+   "experto": "Biólogo marino u oceanógrafo; guía de avistamiento con formación en fauna marina",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "pn_alerce_andino",
@@ -3003,7 +3357,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Parque nacional Alerce Andino",
-   "busqueda_coordenadas": "Parque nacional Alerce Andino"
+   "busqueda_coordenadas": "Parque nacional Alerce Andino",
+   "seremi": "SEREMI de Los Lagos",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "humedales_chiloe",
@@ -3024,7 +3381,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Curaco de Vélez",
-   "busqueda_coordenadas": "Curaco de Vélez"
+   "busqueda_coordenadas": "Curaco de Vélez",
+   "seremi": "SEREMI de Los Lagos",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "punihuil",
@@ -3045,7 +3405,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Islotes de Puñihuil",
-   "busqueda_coordenadas": "Puñihuil"
+   "busqueda_coordenadas": "Puñihuil",
+   "seremi": "SEREMI de Los Lagos",
+   "experto": "Biólogo marino u oceanógrafo; guía de avistamiento con formación en fauna marina",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "volcan_chaiten",
@@ -3066,7 +3429,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Volcán Chaitén",
-   "busqueda_coordenadas": "Volcán Chaitén"
+   "busqueda_coordenadas": "Volcán Chaitén",
+   "seremi": "SEREMI de Los Lagos",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "osorno_calbuco",
@@ -3087,7 +3453,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Volcán Osorno",
-   "busqueda_coordenadas": "Volcán Osorno"
+   "busqueda_coordenadas": "Volcán Osorno",
+   "seremi": "SEREMI de Los Lagos",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "fiordo_reloncavi",
@@ -3108,28 +3477,10 @@
    "confianza": "H",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Estuario de Reloncaví",
-   "busqueda_coordenadas": "Cochamó"
-  },
-  {
-   "id": "salmonicultura_marea_roja",
-   "nombre_oficial": "Salmonicultura y marea roja (episodio de 2016)",
-   "region": "Los Lagos",
-   "comuna": "varias",
-   "area_tematica": "Océano",
-   "anillo": "a estructurar",
-   "subtipo": "turismo industrial (acuicultura)",
-   "base_cientifica_1_linea": "Ciencia de la acuicultura; floraciones algales nocivas",
-   "institucion_responsable": "Centro i~mar; IFOP",
-   "estado_apertura": "cerrado",
-   "estacionalidad": null,
-   "prestador_inscrito": "no",
-   "proteccion_legal": "Normativa de SUBPESCA y SERNAPESCA",
-   "por_que_importa": "Los Lagos es el centro de la industria del salmón de Chile; en 2016 una marea roja masiva mostró cuánto depende esa industria de la ciencia del mar. No hay visitas.",
-   "url_referencia": null,
-   "confianza": "H",
-   "gobernanza_indigena": null,
-   "busqueda_imagen": "Salmonicultura en Chile",
-   "busqueda_coordenadas": "Puerto Montt"
+   "busqueda_coordenadas": "Cochamó",
+   "seremi": "SEREMI de Los Lagos",
+   "experto": "Biólogo marino u oceanógrafo; guía de avistamiento con formación en fauna marina",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "senda_darwin",
@@ -3141,16 +3492,19 @@
    "subtipo": "estación de terreno",
    "base_cientifica_1_linea": "Ecología del bosque y los humedales de Chiloé",
    "institucion_responsable": "Fundación Senda Darwin",
-   "estado_apertura": null,
+   "estado_apertura": "por solicitud",
    "estacionalidad": null,
-   "prestador_inscrito": "no verificado",
+   "prestador_inscrito": "grupos por solicitud",
    "proteccion_legal": null,
    "por_que_importa": "Una estación de investigación en el bosque de Chiloé. Su régimen de visitas no está publicado.",
    "url_referencia": null,
    "confianza": "C] (estación); [PV] (visitas)",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Estación Biológica Senda Darwin",
-   "busqueda_coordenadas": "Ancud"
+   "busqueda_coordenadas": "Ancud",
+   "seremi": "SEREMI de Los Lagos",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "Sí · solo grupos con solicitud previa"
   },
   {
    "id": "imar_ulagos",
@@ -3162,16 +3516,19 @@
    "subtipo": "centro de investigación universitario",
    "base_cientifica_1_linea": "Oceanografía de fiordos y acuicultura; ciencia del fiordo de Reloncaví y de la marea roja de 2016",
    "institucion_responsable": "Universidad de Los Lagos",
-   "estado_apertura": null,
+   "estado_apertura": "por solicitud",
    "estacionalidad": null,
-   "prestador_inscrito": "no",
+   "prestador_inscrito": "grupos por solicitud",
    "proteccion_legal": null,
    "por_que_importa": "El centro de ciencia del mar de la Universidad de Los Lagos estudia los fiordos y la acuicultura del sur. Su régimen de visitas no está publicado.",
    "url_referencia": null,
    "confianza": "C] (centro); [PV] (visitas); [PC] (comuna)",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Universidad de Los Lagos",
-   "busqueda_coordenadas": "Puerto Montt"
+   "busqueda_coordenadas": "Puerto Montt",
+   "seremi": "SEREMI de Los Lagos",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "Sí · solo grupos con solicitud previa"
   },
   {
    "id": "mupa_puerto_montt",
@@ -3192,7 +3549,10 @@
    "confianza": "C] (sala inmersiva); [PV] (régimen de visitas)",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Puerto Montt",
-   "busqueda_coordenadas": "Puerto Montt"
+   "busqueda_coordenadas": "Puerto Montt",
+   "seremi": "SEREMI de Los Lagos",
+   "experto": "Arqueólogo o antropólogo; en sitios con administración indígena, guía de la comunidad",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "ruta_archipielagos_ciep",
@@ -3213,7 +3573,10 @@
    "confianza": "C] (legado); [PV] (operación vigente)",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Melinka",
-   "busqueda_coordenadas": "Melinka"
+   "busqueda_coordenadas": "Melinka",
+   "seremi": "SEREMI de Aysén",
+   "experto": "Biólogo marino u oceanógrafo; guía de avistamiento con formación en fauna marina",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "capillas_de_marmol",
@@ -3234,7 +3597,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Capillas de Mármol",
-   "busqueda_coordenadas": "Puerto Río Tranquilo"
+   "busqueda_coordenadas": "Puerto Río Tranquilo",
+   "seremi": "SEREMI de Aysén",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "geoparque_chelenko",
@@ -3255,7 +3621,10 @@
    "confianza": "C] (proyecto); [PV] (plazo UNESCO)",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Lago General Carrera",
-   "busqueda_coordenadas": "Puerto Guadal"
+   "busqueda_coordenadas": "Puerto Guadal",
+   "seremi": "SEREMI de Aysén",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Solo en fecha del evento"
   },
   {
    "id": "laguna_san_rafael",
@@ -3276,7 +3645,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Parque nacional Laguna San Rafael",
-   "busqueda_coordenadas": "Laguna San Rafael"
+   "busqueda_coordenadas": "Laguna San Rafael",
+   "seremi": "SEREMI de Aysén",
+   "experto": "Glaciólogo o investigador antártico",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "queulat_ventisquero",
@@ -3297,7 +3669,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Parque nacional Queulat",
-   "busqueda_coordenadas": "Ventisquero Colgante"
+   "busqueda_coordenadas": "Ventisquero Colgante",
+   "seremi": "SEREMI de Aysén",
+   "experto": "Glaciólogo o investigador antártico",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "rn_cerro_castillo",
@@ -3318,7 +3693,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Cerro Castillo (Aysén)",
-   "busqueda_coordenadas": "Villa Cerro Castillo"
+   "busqueda_coordenadas": "Villa Cerro Castillo",
+   "seremi": "SEREMI de Aysén",
+   "experto": "Arqueólogo o antropólogo; en sitios con administración indígena, guía de la comunidad",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "huemul_aysen",
@@ -3339,7 +3717,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Huemul",
-   "busqueda_coordenadas": "Coyhaique"
+   "busqueda_coordenadas": "Coyhaique",
+   "seremi": "SEREMI de Aysén",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "No · no recibe público hoy"
   },
   {
    "id": "melimoyu_ballena",
@@ -3360,7 +3741,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Volcán Melimoyu",
-   "busqueda_coordenadas": "Volcán Melimoyu"
+   "busqueda_coordenadas": "Volcán Melimoyu",
+   "seremi": "SEREMI de Aysén",
+   "experto": "Biólogo marino u oceanógrafo; guía de avistamiento con formación en fauna marina",
+   "visitable": "No · no recibe público hoy"
   },
   {
    "id": "pn_patagonia",
@@ -3381,7 +3765,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Parque nacional Patagonia",
-   "busqueda_coordenadas": "Valle Chacabuco"
+   "busqueda_coordenadas": "Valle Chacabuco",
+   "seremi": "SEREMI de Aysén",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "caleta_tortel",
@@ -3402,7 +3789,10 @@
    "confianza": "H",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Caleta Tortel",
-   "busqueda_coordenadas": "Caleta Tortel"
+   "busqueda_coordenadas": "Caleta Tortel",
+   "seremi": "SEREMI de Aysén",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "ciep_laboratorio",
@@ -3423,7 +3813,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Museo Regional de Aysén",
-   "busqueda_coordenadas": "Coyhaique"
+   "busqueda_coordenadas": "Coyhaique",
+   "seremi": "SEREMI de Aysén",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "Sí · solo grupos con solicitud previa"
   },
   {
    "id": "museo_regional_aysen",
@@ -3444,7 +3837,10 @@
    "confianza": "C] (institución y rol); [PV] (programa de visitas)",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Museo Regional de Aysén",
-   "busqueda_coordenadas": "Coyhaique"
+   "busqueda_coordenadas": "Coyhaique",
+   "seremi": "SEREMI de Aysén",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "ictiosaurios_tyndall",
@@ -3465,7 +3861,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Glaciar Tyndall",
-   "busqueda_coordenadas": "Glaciar Tyndall"
+   "busqueda_coordenadas": "Glaciar Tyndall",
+   "seremi": "SEREMI de Magallanes",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "No · no recibe público hoy"
   },
   {
    "id": "rio_chinas_cerro_guido",
@@ -3486,7 +3885,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Cerro Guido",
-   "busqueda_coordenadas": "Cerro Guido"
+   "busqueda_coordenadas": "Cerro Guido",
+   "seremi": "SEREMI de Magallanes",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "No · no recibe público hoy"
   },
   {
    "id": "torres_del_paine",
@@ -3507,7 +3909,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Parque nacional Torres del Paine",
-   "busqueda_coordenadas": "Torres del Paine"
+   "busqueda_coordenadas": "Torres del Paine",
+   "seremi": "SEREMI de Magallanes",
+   "experto": "Glaciólogo o investigador antártico",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "cueva_del_milodon",
@@ -3528,7 +3933,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Monumento natural Cueva del Milodón",
-   "busqueda_coordenadas": "Cueva del Milodón"
+   "busqueda_coordenadas": "Cueva del Milodón",
+   "seremi": "SEREMI de Magallanes",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "fell_pali_aike",
@@ -3549,7 +3957,10 @@
    "confianza": "C",
    "gobernanza_indigena": "consulta",
    "busqueda_imagen": "Cueva Fell",
-   "busqueda_coordenadas": "Parque nacional Pali Aike"
+   "busqueda_coordenadas": "Parque nacional Pali Aike",
+   "seremi": "SEREMI de Magallanes",
+   "experto": "Arqueólogo o antropólogo; en sitios con administración indígena, guía de la comunidad",
+   "visitable": "Sí · acceso libre, sin guion"
   },
   {
    "id": "omora",
@@ -3570,7 +3981,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Parque Etnobotánico Omora",
-   "busqueda_coordenadas": "Puerto Williams"
+   "busqueda_coordenadas": "Puerto Williams",
+   "seremi": "SEREMI de Magallanes",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "parque_marino_coloane",
@@ -3591,7 +4005,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Parque marino Francisco Coloane",
-   "busqueda_coordenadas": "Isla Carlos III"
+   "busqueda_coordenadas": "Isla Carlos III",
+   "seremi": "SEREMI de Magallanes",
+   "experto": "Biólogo marino u oceanógrafo; guía de avistamiento con formación en fauna marina",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "isla_magdalena_otway",
@@ -3612,7 +4029,10 @@
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Monumento natural Los Pingüinos",
-   "busqueda_coordenadas": "Isla Magdalena (Chile)"
+   "busqueda_coordenadas": "Isla Magdalena (Chile)",
+   "seremi": "SEREMI de Magallanes",
+   "experto": "Biólogo marino u oceanógrafo; guía de avistamiento con formación en fauna marina",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "haru_oni",
@@ -3633,7 +4053,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Haru Oni",
-   "busqueda_coordenadas": "Cabo Negro (Chile)"
+   "busqueda_coordenadas": "Cabo Negro (Chile)",
+   "seremi": "SEREMI de Magallanes",
+   "experto": "Geólogo, vulcanólogo o paleontólogo; ingeniero de minas para patrimonio industrial",
+   "visitable": "No · no recibe público hoy"
   },
   {
    "id": "karukinka",
@@ -3654,28 +4077,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Parque Karukinka",
-   "busqueda_coordenadas": "Timaukel"
-  },
-  {
-   "id": "diego_ramirez",
-   "nombre_oficial": "Parque Nacional Islas Diego Ramírez–Paso Drake",
-   "region": "Magallanes",
-   "comuna": "Cabo de Hornos",
-   "area_tematica": "Océano",
-   "anillo": "a estructurar",
-   "subtipo": "islas subantárticas",
-   "base_cientifica_1_linea": "Ecosistemas subantárticos; albatros; observatorio ecológico de largo plazo de Cabo de Hornos",
-   "institucion_responsable": "Universidad de Magallanes; Fundación Omora; Armada de Chile",
-   "estado_apertura": "cerrado",
-   "estacionalidad": null,
-   "prestador_inscrito": "no",
-   "proteccion_legal": "Parque Nacional (2025, ex Parque Marino DS 9/2018)",
-   "por_que_importa": "Las islas más australes de Chile, frente al paso Drake, donde anidan albatros y donde la ciencia mide cambios del océano austral. No hay acceso turístico.",
-   "url_referencia": null,
-   "confianza": "C",
-   "gobernanza_indigena": null,
-   "busqueda_imagen": "Islas Diego Ramírez",
-   "busqueda_coordenadas": "Islas Diego Ramírez"
+   "busqueda_coordenadas": "Timaukel",
+   "seremi": "SEREMI de Magallanes",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "No · no recibe público hoy"
   },
   {
    "id": "rb_cabo_de_hornos",
@@ -3696,7 +4101,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Reserva de la biosfera Cabo de Hornos",
-   "busqueda_coordenadas": "Puerto Williams"
+   "busqueda_coordenadas": "Puerto Williams",
+   "seremi": "SEREMI de Magallanes",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "feria_antartica_escolar",
@@ -3717,7 +4125,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Instituto Antártico Chileno",
-   "busqueda_coordenadas": "Punta Arenas"
+   "busqueda_coordenadas": "Punta Arenas",
+   "seremi": "SEREMI de Magallanes",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "punta_arenas_puerta",
@@ -3738,7 +4149,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Punta Arenas",
-   "busqueda_coordenadas": "Punta Arenas"
+   "busqueda_coordenadas": "Punta Arenas",
+   "seremi": "SEREMI de Magallanes",
+   "experto": "Glaciólogo o investigador antártico",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "vuelo_rey_jorge_dap",
@@ -3759,7 +4173,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Aeródromo Teniente Rodolfo Marsh Martin",
-   "busqueda_coordenadas": "Punta Arenas"
+   "busqueda_coordenadas": "Punta Arenas",
+   "seremi": "SEREMI de Magallanes",
+   "experto": "Glaciólogo o investigador antártico",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "centro_antartico_internacional",
@@ -3780,28 +4197,10 @@
    "confianza": "C] (proyecto); [PV] (plazos)",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Centro Antártico Internacional",
-   "busqueda_coordenadas": "Punta Arenas"
-  },
-  {
-   "id": "red_ciudades_puerta",
-   "nombre_oficial": "Red de ciudades puerta antárticas (Antarctic Gateways)",
-   "region": "Magallanes",
-   "comuna": "Punta Arenas",
-   "area_tematica": "Hielo y Antártica",
-   "anillo": "a estructurar",
-   "subtipo": "alianza institucional",
-   "base_cientifica_1_linea": "Cinco ciudades puerta reconocidas (Punta Arenas, Ushuaia, Ciudad del Cabo, Hobart, Christchurch); seminario internacional en Punta Arenas en febrero de 2026",
-   "institucion_responsable": "INACH; Nodo Laboratorio Natural Antártico",
-   "estado_apertura": "no aplica",
-   "estacionalidad": null,
-   "prestador_inscrito": "no aplica",
-   "proteccion_legal": null,
-   "por_que_importa": "Cinco ciudades del mundo son puertas a la Antártica: Punta Arenas, Ushuaia, Ciudad del Cabo, Hobart y Christchurch. En 2026 se reunieron en Chile para coordinar su trabajo.",
-   "url_referencia": "https://www.inach.cl/en-punta-arenas-se-potencia-la-alianza-global-de-ciudades-puerta-de-entrada-al-continente-blanco/",
-   "confianza": "C",
-   "gobernanza_indigena": null,
-   "busqueda_imagen": "Punta Arenas",
-   "busqueda_coordenadas": "Punta Arenas"
+   "busqueda_coordenadas": "Punta Arenas",
+   "seremi": "SEREMI de Magallanes",
+   "experto": "Glaciólogo o investigador antártico",
+   "visitable": "No · no recibe público hoy"
   },
   {
    "id": "cequa",
@@ -3822,7 +4221,10 @@
    "confianza": "C",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Punta Arenas",
-   "busqueda_coordenadas": "Punta Arenas"
+   "busqueda_coordenadas": "Punta Arenas",
+   "seremi": "SEREMI de Magallanes",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "Sí · solo grupos con solicitud previa"
   },
   {
    "id": "museo_rio_seco",
@@ -3834,16 +4236,19 @@
    "subtipo": "museo de historia natural (privado)",
    "base_cientifica_1_linea": "Colecciones de historia natural de Magallanes; exhibición del material paleontológico regional, incluidos los ictiosaurios de Tyndall",
    "institucion_responsable": "Museo de Historia Natural Río Seco (privado); colabora con la Universidad de Magallanes",
-   "estado_apertura": null,
+   "estado_apertura": "abierto con programa",
    "estacionalidad": "todo el año",
-   "prestador_inscrito": "no verificado",
+   "prestador_inscrito": "sí, entrada directa",
    "proteccion_legal": null,
    "por_que_importa": "Un museo de historia natural en el sector Río Seco de Punta Arenas que muestra la fauna y los fósiles de Magallanes, incluidos los reptiles marinos del glaciar Tyndall que no se pueden ver en terreno. Su régimen de visitas no está publicado.",
    "url_referencia": null,
    "confianza": "PC",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Museo de Historia Natural Río Seco",
-   "busqueda_coordenadas": "Río Seco (Punta Arenas)"
+   "busqueda_coordenadas": "Río Seco (Punta Arenas)",
+   "seremi": "SEREMI de Magallanes",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · programa abierto"
   },
   {
    "id": "chic_cabo_de_hornos",
@@ -3855,37 +4260,187 @@
    "subtipo": "centro de investigación con infraestructura de recepción de visitantes",
    "base_cientifica_1_linea": "Ecología subantártica, briofitas y conservación biocultural; sede del programa de investigación de Omora",
    "institucion_responsable": "Universidad de Magallanes; CHIC",
-   "estado_apertura": null,
+   "estado_apertura": "abierto con programa",
    "estacionalidad": null,
-   "prestador_inscrito": "no verificado",
+   "prestador_inscrito": "sí, Centro Subantártico con recepción de visitantes",
    "proteccion_legal": null,
    "por_que_importa": "El centro de investigación subantártica de Puerto Williams tiene infraestructura para recibir visitantes junto al parque Omora. Su régimen de apertura al público no está publicado.",
    "url_referencia": "https://capehorncenter.com/",
    "confianza": "C] (centro); [PV] (apertura)",
    "gobernanza_indigena": null,
    "busqueda_imagen": "Puerto Williams",
-   "busqueda_coordenadas": "Puerto Williams"
+   "busqueda_coordenadas": "Puerto Williams",
+   "seremi": "SEREMI de Magallanes",
+   "experto": "Investigador o investigadora del propio centro; encargado de vinculación con el medio",
+   "visitable": "Sí · programa abierto"
   },
   {
-   "id": "base_escudero",
-   "nombre_oficial": "Base Profesor Julio Escudero (isla Rey Jorge)",
-   "region": "Magallanes (Antártica Chilena)",
-   "comuna": "Antártica",
-   "area_tematica": "Hielo y Antártica",
-   "anillo": "a estructurar",
-   "subtipo": "base científica",
-   "base_cientifica_1_linea": "Programa Nacional de Ciencia Antártica (PROCIEN)",
-   "institucion_responsable": "INACH",
-   "estado_apertura": "no aplica",
-   "estacionalidad": "noviembre a marzo",
-   "prestador_inscrito": "no",
-   "proteccion_legal": "Estatuto Antártico Chileno; Tratado Antártico",
-   "por_que_importa": "La principal base científica de Chile en la Antártica, en la isla Rey Jorge. No recibe turistas: recibe científicos y, cada año, a los estudiantes ganadores de la Feria Antártica Escolar.",
-   "url_referencia": "https://www.inach.cl/",
-   "confianza": "C",
+   "id": "cueva_milodon",
+   "nombre_oficial": "Monumento Natural Cueva del Milodón",
+   "region": "Magallanes y Antártica Chilena",
+   "comuna": "Torres del Paine",
+   "area_tematica": "Huellas Humanas",
+   "anillo": "maduro",
+   "subtipo": "sitio paleontológico y arqueológico con administración",
+   "base_cientifica_1_linea": "Restos de milodón y evidencia de ocupación humana temprana en Patagonia",
+   "institucion_responsable": "CONAF",
+   "estado_apertura": "abierto con programa",
+   "estacionalidad": "Todo el año",
+   "prestador_inscrito": "sí, operadores de Puerto Natales",
+   "proteccion_legal": "Monumento Natural (Ley 17.288)",
+   "por_que_importa": "Aquí se encontraron restos de un milodón de más de diez mil años junto a huellas de los primeros habitantes de la Patagonia. La cueva mide 200 metros de profundidad y se recorre con senderos habilitados.",
+   "url_referencia": "https://www.conaf.cl",
+   "confianza": "PC",
    "gobernanza_indigena": null,
-   "busqueda_imagen": "Base Profesor Julio Escudero",
-   "busqueda_coordenadas": "Base Presidente Eduardo Frei Montalva"
+   "busqueda_imagen": "Monumento Natural Cueva del Milodón",
+   "busqueda_coordenadas": "Torres del Paine",
+   "seremi": "SEREMI de Magallanes",
+   "experto": "Arqueólogo o antropólogo; en sitios con administración indígena, guía de la comunidad",
+   "visitable": "Sí · programa abierto"
+  },
+  {
+   "id": "pukara_quitor_tulor",
+   "nombre_oficial": "Pukará de Quitor y Aldea de Tulor",
+   "region": "Antofagasta",
+   "comuna": "San Pedro de Atacama",
+   "area_tematica": "Huellas Humanas",
+   "anillo": "maduro",
+   "subtipo": "sitio arqueológico con administración comunitaria",
+   "base_cientifica_1_linea": "Fortaleza del siglo XII y aldea circular de 800 a.C., investigadas desde el trabajo de Le Paige",
+   "institucion_responsable": "Comunidad Atacameña de San Pedro de Atacama",
+   "estado_apertura": "abierto con programa",
+   "estacionalidad": "Todo el año",
+   "prestador_inscrito": "sí, operadores de San Pedro de Atacama",
+   "proteccion_legal": "Monumento Nacional (Ley 17.288)",
+   "por_que_importa": "Dos sitios que muestran tres mil años de ocupación del oasis: una aldea de casas circulares de barro y una fortaleza defensiva sobre el río. Los administra la comunidad atacameña.",
+   "url_referencia": "https://www.monumentos.gob.cl",
+   "confianza": "PC",
+   "gobernanza_indigena": null,
+   "busqueda_imagen": "Pukará de Quitor y Aldea de Tulor",
+   "busqueda_coordenadas": "San Pedro de Atacama",
+   "seremi": "SEREMI de Antofagasta",
+   "experto": "Arqueólogo o antropólogo; en sitios con administración indígena, guía de la comunidad",
+   "visitable": "Sí · programa abierto"
+  },
+  {
+   "id": "punihuil",
+   "nombre_oficial": "Pingüineras de Puñihuil",
+   "region": "Los Lagos",
+   "comuna": "Ancud",
+   "area_tematica": "Océano",
+   "anillo": "maduro",
+   "subtipo": "avistamiento de fauna con operación turística regulada",
+   "base_cientifica_1_linea": "Único lugar del mundo donde anidan juntos el pingüino de Humboldt y el de Magallanes",
+   "institucion_responsable": "Monumento Natural Islotes de Puñihuil, CONAF",
+   "estado_apertura": "abierto con programa",
+   "estacionalidad": "Septiembre a marzo",
+   "prestador_inscrito": "sí, sindicato de botes de Puñihuil",
+   "proteccion_legal": "Monumento Natural",
+   "por_que_importa": "Es el único sitio del planeta donde dos especies de pingüino comparten colonia de nidificación. Se recorre en bote con guías locales y hay monitoreo científico desde hace dos décadas.",
+   "url_referencia": "https://www.conaf.cl",
+   "confianza": "PC",
+   "gobernanza_indigena": null,
+   "busqueda_imagen": "Pingüineras de Puñihuil",
+   "busqueda_coordenadas": "Ancud",
+   "seremi": "SEREMI de Los Lagos",
+   "experto": "Biólogo marino u oceanógrafo; guía de avistamiento con formación en fauna marina",
+   "visitable": "Sí · programa abierto"
+  },
+  {
+   "id": "jardin_botanico_vina",
+   "nombre_oficial": "Jardín Botánico Nacional de Viña del Mar",
+   "region": "Valparaíso",
+   "comuna": "Viña del Mar",
+   "area_tematica": "Biodiversidad",
+   "anillo": "operable",
+   "subtipo": "jardín botánico con colección científica",
+   "base_cientifica_1_linea": "Colección de más de 1.300 especies y banco de germoplasma de flora nativa",
+   "institucion_responsable": "Fundación Jardín Botánico Nacional",
+   "estado_apertura": "abierto con programa",
+   "estacionalidad": "Todo el año",
+   "prestador_inscrito": "sí, visitas guiadas propias",
+   "proteccion_legal": "Santuario de la Naturaleza",
+   "por_que_importa": "Cuatrocientas hectáreas con la colección de flora nativa más grande del país y un banco de semillas que conserva especies en peligro. Tiene programa de visitas guiadas y de educación ambiental.",
+   "url_referencia": "https://www.jbn.cl",
+   "confianza": "PC",
+   "gobernanza_indigena": null,
+   "busqueda_imagen": "Jardín Botánico Nacional de Viña del Mar",
+   "busqueda_coordenadas": "Viña del Mar",
+   "seremi": "SEREMI de Valparaíso",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · programa abierto"
+  },
+  {
+   "id": "museo_fonck",
+   "nombre_oficial": "Museo de Arqueología e Historia Francisco Fonck",
+   "region": "Valparaíso",
+   "comuna": "Viña del Mar",
+   "area_tematica": "Huellas Humanas",
+   "anillo": "operable",
+   "subtipo": "museo arqueológico",
+   "base_cientifica_1_linea": "Colección rapanui y andina; un moai original en su acceso",
+   "institucion_responsable": "Fundación Museo Fonck",
+   "estado_apertura": "abierto con programa",
+   "estacionalidad": "Todo el año",
+   "prestador_inscrito": "sí, entrada directa",
+   "proteccion_legal": "Museo reconocido por el SNPC",
+   "por_que_importa": "Tiene el único moai original expuesto en Chile continental y una colección rapanui y atacameña que permite entender el trabajo arqueológico sin viajar a la isla.",
+   "url_referencia": "https://www.museofonck.cl",
+   "confianza": "PC",
+   "gobernanza_indigena": null,
+   "busqueda_imagen": "Museo de Arqueología e Historia Francisco Fonck",
+   "busqueda_coordenadas": "Viña del Mar",
+   "seremi": "SEREMI de Valparaíso",
+   "experto": "Arqueólogo o antropólogo; en sitios con administración indígena, guía de la comunidad",
+   "visitable": "Sí · programa abierto"
+  },
+  {
+   "id": "museo_hist_nat_valparaiso",
+   "nombre_oficial": "Museo de Historia Natural de Valparaíso",
+   "region": "Valparaíso",
+   "comuna": "Valparaíso",
+   "area_tematica": "Biodiversidad",
+   "anillo": "operable",
+   "subtipo": "museo de historia natural estatal",
+   "base_cientifica_1_linea": "Segundo museo de historia natural más antiguo de Chile, fundado en 1878",
+   "institucion_responsable": "Servicio Nacional del Patrimonio Cultural",
+   "estado_apertura": "abierto con programa",
+   "estacionalidad": "Todo el año",
+   "prestador_inscrito": "sí, entrada liberada",
+   "proteccion_legal": "Museo estatal del SNPC",
+   "por_que_importa": "Fundado en 1878 en el Palacio Lyon, conserva colecciones de zoología, botánica y arqueología de la costa central, con entrada liberada y programa escolar.",
+   "url_referencia": "https://www.mhnv.gob.cl",
+   "confianza": "PC",
+   "gobernanza_indigena": null,
+   "busqueda_imagen": "Museo de Historia Natural de Valparaíso",
+   "busqueda_coordenadas": "Valparaíso",
+   "seremi": "SEREMI de Valparaíso",
+   "experto": "Biólogo, botánico u ornitólogo; guardaparques con formación científica",
+   "visitable": "Sí · programa abierto"
+  },
+  {
+   "id": "observatorio_pangue",
+   "nombre_oficial": "Observatorio Pangue",
+   "region": "Coquimbo",
+   "comuna": "Vicuña",
+   "area_tematica": "Cielos",
+   "anillo": "maduro",
+   "subtipo": "observatorio turístico",
+   "base_cientifica_1_linea": "Observación astronómica con telescopios de gran apertura y astrofotografía",
+   "institucion_responsable": "Privado",
+   "estado_apertura": "abierto con programa",
+   "estacionalidad": "Todo el año, noches sin luna",
+   "prestador_inscrito": "sí, inscrito en el Registro Nacional",
+   "proteccion_legal": "Zona de protección lumínica DS 1/2022",
+   "por_que_importa": "Observatorio turístico del valle del Elqui orientado a grupos pequeños y astrofotografía, con telescopios de mayor apertura que los de uso masivo.",
+   "url_referencia": "https://www.observatoriopangue.com",
+   "confianza": "PC",
+   "gobernanza_indigena": null,
+   "busqueda_imagen": "Observatorio Pangue",
+   "busqueda_coordenadas": "Vicuña",
+   "seremi": "SEREMI de Coquimbo",
+   "experto": "Astrónomo o astrónoma; divulgador astronómico certificado",
+   "visitable": "Sí · programa abierto"
   }
  ],
  "hitos": [
